@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
-<h3 align="center">I am proficient at information security, DevOps, Cloud and cybersecurity practices</h3>
+<h3 align="center">I am proficient at information security, Cloud and cybersecurity practices</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jqcvsc&label=Profile%20views&color=0e75b6&style=flat" alt="jqcvsc" /> </p>
 
