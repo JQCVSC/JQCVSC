@@ -1,10 +1,14 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jqcvsc&label=Profile%20views&color=0e75b6&style=flat" alt="jqcvsc" /> </p>
+<p align="left"> <a href="https://github.com/JQCVSC?tab=repositories" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=jqcvsc&label=Profile%20views&color=0e75b6&style=flat" alt="jqcvsc" />
+</a>
+
 <h1 align="center">💫 About Me:</h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jqcvsc" alt="jqcvsc" /></a> </p>
 
   ## 🛜🔐👨🏾‍💻 I’m currently learning **Wi-fi network penetration and wireless home device security**.
 
-  ## <a href="https://github.com/JQCVSC" target="_blank"> <img src="https://github.com/user-attachments/assets/f95df829-4672-41a4-b1d5-418c0e62aff0" alt="GithubCatGIF" height="35" width="40" /></a>All of my projects are available at   [https://github.com/JQCVSC](https://github.com/JQCVSC)
+  ## <a href="https://github.com/JQCVSC?tab=repositories" target="_blank"> <img src="https://github.com/user-attachments/assets/f95df829-4672-41a4-b1d5-418c0e62aff0" alt="GithubCatGIF" height="35" width="40" /></a>All of my projects are available at [https://github.com/JQCVSC](https://github.com/JQCVSC?tab=repositories)
+
 
 ## 📝 I regularly write articles on <a href="https://dev.to/https://dev.to/jqcvsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jqcvsc" height="30" width="40" /></a> <a href="https://medium.com/@xybercoyote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@xybercoyote" height="30" width="40" /></a> <a href="https://hackernoon.com/u/xybercoyote/" target="blank"><img align="center" src="https://app.hackernoon.com/hn-green-logo-no-shadow.png" alt="hackernoon" height="35" width="40" />
 </a>
