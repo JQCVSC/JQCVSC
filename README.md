@@ -2,7 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=jqcvsc&label=Profile%20views&color=0e75b6&style=flat" alt="jqcvsc" />
 </a>
 
-<h1 align="center">💫 About Me:</h1>
+<h1 align="center">💫<a href="https://github.com/JQCVSC?tab=repositories">About Me</a></h1>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jqcvsc" alt="jqcvsc" /></a> </p>
 
   ## 🛜🔐👨🏾‍💻 I’m currently learning **Wi-fi network penetration and wireless home device security**.
